@@ -1,13 +1,13 @@
 body {
-    background-image: url("yarn.jpeg");
+    background-image: url("counter.avif");
     background-size: cover;
-    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: sans-serif;
     text-align: center;
     height: 100vh;
 }
 
 .container {
-    background: white;
+    background: orange;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
@@ -37,7 +37,7 @@ button {
 }
 
 #increment-btn {
-    background: #2C2891;
+    background: red;
 }
 
 #save-btn {
